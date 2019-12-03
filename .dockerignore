@@ -1,0 +1,10 @@
+Dockerfile
+node_modules/
+dist/
+test/
+
+# secret files
+
+
+# enviornment variables
+.env

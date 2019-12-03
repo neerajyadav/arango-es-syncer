@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/coverage": true,
+        "**/dist": true,
+        "**/node_modules": true
+    },
+    "debug.node.autoAttach": "on",
+    "editor.detectIndentation": false,
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "search.exclude": {
+        "**/dist": true
+    }
+}

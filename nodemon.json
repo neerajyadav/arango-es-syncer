@@ -1,0 +1,6 @@
+{
+    "watch": ["dist"],
+    "ext": "js",
+    "exec": "node -r dotenv/config dist/main"
+  }
+  
